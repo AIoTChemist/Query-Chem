@@ -1,7 +1,7 @@
 # Query-Chem
 A simple python applet for obtaining PubChem property data and their references online.
 
-Use it: choose database--->property--->input chemicals
+Use it: choose database--->property--->input chemicals, click "Entrez".
 
 If this is useful to you, welcome to give a free star⭐！
 
